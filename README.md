@@ -1,7 +1,7 @@
 # MaoTube
 yt-dlp GUI for extremely lazy people - vibe coded :)
 
-for noobs like myself, go to "releases" on the right, download MaoTube.exe
+for noobs like myself, go to "releases" on the right scroll to "Assets", download MaoTube.exe
 
 ```text
 ███╗   ███╗ █████╗  ██████╗ ████████╗██╗   ██╗██████╗ ███████╗
